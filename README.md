@@ -1,4 +1,4 @@
 # First_Repo
 This is my first repository.
 <hr>
-Author - Ritika Rathore
+<bold>Author</bold> - <bold>Ritika Rathore</bold>
