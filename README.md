@@ -1,4 +1,4 @@
 # First_Repo
 This is my first repository.
 <hr>
-Author - Miss. Ritika Rathore
+Author - Miss. Ritika Gajendra Singh Rathore
